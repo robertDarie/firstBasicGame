@@ -1,0 +1,7 @@
+Game\Window.class
+Game\KeyInput.class
+Game\Player.class
+Game\ID.class
+Game\Handler.class
+Game\GameObj.class
+Game\Game.class
